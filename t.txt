@@ -1,0 +1,9 @@
+Braille is initialized!
+There are three buttons on the simulator!
+Each button represents a unique option!
+Select the option you feel is correct!
+The Buttons are as follows!
+Button 0
+Button 1
+And Button 2
+Based on what you can see, what option do you think is correct?
